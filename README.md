@@ -1,7 +1,7 @@
 # Auction_House_Exporter_App
 
 
-This is a software is made for an Online Auction House.
+This software was made for an Online Auction House.
 
 
 project1.py - This file is calling main which includes the application window.
